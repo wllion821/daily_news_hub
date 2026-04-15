@@ -22,13 +22,12 @@ jobs:
         run: |
           mkdir -p data
           python fetch_news.py
-          sed -i 's/gemini-1.5-pro/gemini-1.5-flash/g' process_news.py
           python process_news.py          
       - run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/news.json
-          git commit -m "自动更新动态" || echo "无内容更新"
+          git commit -m "chore: AI analysis update" || echo "No changes"
           git push          
       - uses: actions/upload-pages-artifact@v3
         with:
