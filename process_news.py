@@ -3,8 +3,8 @@ import json
 import requests
 from datetime import datetime
 
-# MiMo-V2-Omni 配置
-API_KEY = "tp-cihe9g8tdcrsjwqrmm3vtsvi5kmvz7qnhfaypgvxumxp3g4c"
+# MiMo-V2-Omni 配置 - 支持环境变量或默认值
+API_KEY = os.environ.get("MIMO_API_KEY", "tp-cihe9g8tdcrsjwqrmm3vtsvi5kmvz7qnhfaypgvxumxp3g4c")
 BASE_URL = "https://token-plan-cn.xiaomimimo.com/v1/chat/completions"
 MODEL_NAME = "mimo-v2-pro"
 
@@ -45,7 +45,6 @@ def call_mimo_analyst(news_items, region, category):
         return json.loads(content)
     except Exception as e:
         print(f"MiMo API 调用失败 [{region}-{category}]: {e}")
-        # 降级处理
         return [
             {
                 "title": item.get("title", ""),
@@ -58,7 +57,8 @@ def call_mimo_analyst(news_items, region, category):
         ]
 
 def main():
-    workdir = "/Users/wllion/Library/Mobile Documents/com~apple~CloudDocs/opencode/daily_news_hub"
+    # 使用相对路径，兼容本地和 GitHub Actions
+    workdir = os.path.dirname(os.path.abspath(__file__))
     raw_path = os.path.join(workdir, "data/raw_news.json")
     output_path = os.path.join(workdir, "data/news.json")
     
