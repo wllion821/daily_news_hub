@@ -1,37 +1,29 @@
 {
-    "update_time": "2026-04-15 06:09",
+    "update_time": "2026-04-15 06:24",
     "regions": {
         "international": {
             "finance": [
                 {
-                    "url": "https://deepview.caixin.com/event/EVENT.000000465.html",
-                    "title": "地缘图志：全球财经数据资讯（7.7—7.13滚动更新）",
-                    "content": "比特币连续第二天创下纪录新高，期权交易员已将目光投向更高的价位。这一全球市值最大的数字资产今年以来已上涨约25%。",
-                    "score": 0.98596,
-                    "raw_content": null,
-                    "serper_date": null
-                },
-                {
                     "url": "https://finance.sina.com.cn/money/bond/2026-04-15/doc-inhupqxe4258255.shtml",
                     "title": "国际金融市场早知道：4月15日 - 新浪财经",
                     "content": "国际货币基金组织（IMF）14日发布《全球金融稳定报告》 ... 其中，全球第二季度需求将日均下降150万桶，为新冠疫情以来最大季度降幅。 【全球市场动态】.",
-                    "score": 0.98526,
+                    "score": 0.98557,
                     "raw_content": null,
                     "serper_date": "6 hours ago"
                 },
                 {
-                    "url": "https://tzxy.sina.com.cn/kuaixun?ref=www.bidianer.com",
-                    "title": "7×24小时全球实时财经新闻直播 - 新浪投资研学中心",
-                    "content": "伦敦证券交易所集团的数据显示，市场充分反映了英国央行在2026年进行一次四分之一个百分点加息的预期，第二次加息的可能性为68%。 17:54:32. 【泰豪科技：2025年归母净利润",
-                    "score": 0.98244,
+                    "url": "https://deepview.caixin.com/event/EVENT.000000274.html",
+                    "title": "地缘图志：全球财经数据资讯（9.9—9.15）",
+                    "content": "2024-09-10 14:54:13. 【市场动态】摩根士丹利预计欧元将兑美元下跌7% 欧洲央行料加大政策宽松力度. 随着欧洲央行加大政策宽松力度以应对步履蹒跚的经济，摩根士丹利预计，",
+                    "score": 0.98518,
                     "raw_content": null,
                     "serper_date": null
                 },
                 {
-                    "url": "http://quotes.sina.com.cn/usstock/hq/summary.php?s=COF",
-                    "title": "(cof)股票公司摘要- 美股 - 新浪",
-                    "content": "开盘价:181.90, 最高价:182.10, 最低价:179.30, 52周最高价:258.83, 52周最低价:140.42 ; 成交量:59.16万, 平均成交量:504.55万, 市值:1112.71亿, 市盈率:60.720000, 预期",
-                    "score": 0.98181,
+                    "url": "https://deepview.caixin.com/event/EVENT.000000394.html",
+                    "title": "地缘图志：全球财经数据资讯（3.24—3.30滚动更新）",
+                    "content": "美国总统特朗普的最新汽车关税政策再度引发了市场“避险潮”，国际黄金价格再度走高。3月28日亚洲市场开盘后，COMEX黄金延续前一日涨势，走出“四连阳”，盘中触及3112.3美元/",
+                    "score": 0.98184,
                     "raw_content": null,
                     "serper_date": null
                 },
@@ -39,7 +31,15 @@
                     "url": "http://stock.sina.com.cn/",
                     "title": "行情中心-全球市场最新行情数据-新浪财经",
                     "content": "新浪财经行情中心，实时更新全球市场行情数据，涵盖股票、期货、外汇、港股、美股、黄金、基金、债券等，提供专业财经资讯与投资策略，助您精准把握投资机会。",
-                    "score": 0.97987,
+                    "score": 0.98103,
+                    "raw_content": null,
+                    "serper_date": null
+                },
+                {
+                    "url": "https://tzxy.sina.com.cn/kuaixun",
+                    "title": "7×24小时全球实时财经新闻直播 - 新浪投资研学中心",
+                    "content": "7*24小时全球实时财经新闻直播. 坚持做最好的财经直播报道，给百姓最真的财经动态。 分享到：. 全部 A股 宏观 行业 公司 数据 市场 观点 央行 其他. 55秒后刷新.",
+                    "score": 0.98082,
                     "raw_content": null,
                     "serper_date": null
                 }
