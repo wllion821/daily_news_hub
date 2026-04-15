@@ -29,14 +29,14 @@ def main():
     # 定义搜索矩阵
     search_queries = {
         "international": {
-            "finance": "latest global finance market news wall street",
-            "technology": "latest global technology breakthrough space computer science",
-            "AI": "latest artificial intelligence LLM OpenAI Anthropic research news"
+            "finance": "site:sina.com.cn OR site:wallstreetcn.com OR site:caixin.com 全球 财经 国际 市场 动态",
+            "technology": "site:36kr.com OR site:ithome.com OR site:huxiu.com 全球 科技 突破 进展",
+            "AI": "site:jiqizhixin.com OR site:infoq.cn OR site:51cto.com 全球 人工智能 AI 最新 进展"
         },
         "china": {
-            "finance": "中国 最新 财经 宏观经济 股市 动态",
-            "technology": "中国 科技 突破 芯片 半导体 航天 进展",
-            "AI": "中国 人工智能 大模型 DeepSeek 百度 阿里 进展"
+            "finance": "site:eastmoney.com OR site:cls.cn OR site:stcn.com 中国 财经 宏观经济 A股 政策",
+            "technology": "site:guancha.cn OR site:cls.cn 中国 科技 创新 半导体 航天 成果",
+            "AI": "site:36kr.com OR site:ifanr.com 中国 AI 大模型 落地 应用 进展"
         }
     }
 
