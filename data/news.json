@@ -1,195 +1,195 @@
 {
-    "update_time": "2026-04-15 21:08",
+    "update_time": "2026-04-15 21:17",
     "regions": {
         "international": {
             "finance": [
                 {
-                    "url": "http://stock.sina.com.cn/",
                     "title": "行情中心-全球市场最新行情数据-新浪财经",
-                    "content": "新浪财经行情中心，实时更新全球市场行情数据，涵盖股票、期货、外汇、港股、美股、黄金、基金、债券等，提供专业财经资讯与投资策略，助您精准把握投资机会。",
-                    "score": 0.98539,
-                    "raw_content": null,
-                    "serper_date": null
+                    "url": "http://stock.sina.com.cn/",
+                    "publish_time": null,
+                    "score": 9.8539,
+                    "stars": "★★★★★",
+                    "insight": "该平台提供实时全球市场数据整合，覆盖多资产类别，是降低信息不对称的关键工具。战略上，投资者应利用其实时性优化决策，但需警惕数据过载，结合深度分析以捕捉真正机会。"
                 },
                 {
-                    "url": "https://finance.sina.com.cn/jjxw/2026-04-07/doc-inhtrqck0485534.shtml",
                     "title": "国际金融市场早知道：4月7日 - 新浪财经",
-                    "content": "【全球市场动态】. •道琼斯工业指数上涨0.36%报46669.88点，标准普尔500指数上涨0.44%报6611.83点，纳斯达克综合指数上涨0.54%报21996.34点。 •COMEX",
-                    "score": 0.9852,
-                    "raw_content": null,
-                    "serper_date": "Apr 7, 2026"
+                    "url": "https://finance.sina.com.cn/jjxw/2026-04-07/doc-inhtrqck0485534.shtml",
+                    "publish_time": "2026-04-07",
+                    "score": 9.852,
+                    "stars": "★★★★★",
+                    "insight": "美股指数小幅上涨显示市场温和乐观，COMEX提及暗示大宗商品动态。战略上，需深挖上涨驱动因素如经济数据，并监控大宗商品对通胀的影响，以调整资产配置和风险管理。"
                 },
                 {
-                    "url": "https://finance.sina.com.cn/",
                     "title": "新浪财经_金融信息服务商",
-                    "content": "新浪财经是国内领先的金融信息服务提供平台，以“打破信息不对称”为使命，专注于交易、资讯、数据、服务四大领域。为用户提供7×24小时全球股票、基金、期货、外汇、债券等",
-                    "score": 0.98272,
-                    "raw_content": null,
-                    "serper_date": null
+                    "url": "https://finance.sina.com.cn/",
+                    "publish_time": null,
+                    "score": 9.8272,
+                    "stars": "★★★★★",
+                    "insight": "平台以打破信息不对称为使命，覆盖交易、资讯等领域。战略上，这体现了金融科技在信息民主化中的作用，但需通过AI集成和服务创新来应对竞争，维持市场领导地位。"
                 },
                 {
-                    "url": "https://cj.sina.com.cn/articles/view/5953740931/162dee083067030uog?froms=ggmp",
                     "title": "汇丰调查：全球企业和投资者聚焦亚洲市场与人工智能 - 新浪财经",
-                    "content": "在谈及如何推进国际化业务战略时，有一半（50%）的全球受访企业表示，未来三年，人工智能等关键技术和基础设施的可获得性将成为首要影响因素，其次是市场增长",
-                    "score": 0.98223,
-                    "raw_content": null,
-                    "serper_date": "1 day ago"
+                    "url": "https://cj.sina.com.cn/articles/view/5953740931/162dee083067030uog?froms=ggmp",
+                    "publish_time": "2026-04-15",
+                    "score": 9.8223,
+                    "stars": "★★★★★",
+                    "insight": "调查显示AI技术可获得性成为企业国际化首要因素，超越市场增长。战略上，企业应优先投资AI基础设施，并聚焦亚洲市场作为增长引擎，以制定技术驱动的全球化策略。"
                 },
                 {
-                    "url": "https://finance.sina.com.cn/money/bond/2026-04-15/doc-inhupqxe4258255.shtml",
                     "title": "国际金融市场早知道：4月15日 - 新浪财经",
-                    "content": "国际货币基金组织（IMF）14日发布《全球金融稳定报告》 ... 其中，全球第二季度需求将日均下降150万桶，为新冠疫情以来最大季度降幅。 【全球市场动态】.",
-                    "score": 0.97811,
-                    "raw_content": null,
-                    "serper_date": "13 hours ago"
+                    "url": "https://finance.sina.com.cn/money/bond/2026-04-15/doc-inhupqxe4258255.shtml",
+                    "publish_time": "2026-04-15",
+                    "score": 9.7811,
+                    "stars": "★★★★★",
+                    "insight": "IMF报告指出全球石油需求大幅下降，预示经济放缓风险。战略上，需警惕能源需求疲软对资产和通胀的冲击，建议分散投资并关注央行政策应对，以管理市场波动。"
                 }
             ],
             "technology": [
                 {
-                    "url": "https://eu.36kr.com/en/p/3767812746937095",
                     "title": "AI-Driven De Novo Design of Diverse Small Molecule-Binding Proteins: Korean Team Finds Proteins to Selectively Recognize Stress Hormones - eu.36kr.com",
-                    "score": 0.0067188703,
-                    "published_date": "Wed, 15 Apr 2026 09:01:04 GMT",
-                    "content": "## Conclusion\n\nOverall, this study provides a new path for the de novo design of small molecule-binding proteins: by using an artificial intelligence model to precisely characterize protein-ligand interactions at the atomic level, it has achieved a transformation from \"discovering or modifying natural proteins\" to \"customizing functional proteins on demand\" and completed effective experimental verification.\n\nThis not only marks a\n\nFor media inquiries, interview requests, business collaboration and Recruit global ecological partners, please contact mohaiying@36kr.com.\n\n36kr Europe (eu.36kr.com) delivers global business and markets news, data, analysis, and video to the world, dedicated to building value and providing business service for companies’ global expansion. [...] Overall, this method has achieved a certain degree of high-specificity recognition, but there is still room for further optimization in distinguishing structurally similar molecules and improving the selectivity for hydrophobic ligands.\n\n### Biosensor Construction (Design and Characterization of Cortisol-Induced Heterodimers) [...] A research team from the Department of Biological Sciences at the Korea Advanced Institute of Science and Technology (KAIST) used a deep learning-driven protein structure generation and sequence design method. With the NTF2-like fold as the core \"universal backbone\", they de novo designed diverse small molecule-binding proteins and further transformed them into sensors similar to chemical-induced dimerization (CID). The researchers successfully designed a protein that can selectively recognize the stress hormone cortisol and developed an artificial intelligence biosensor based on it.",
-                    "raw_content": null
+                    "url": "https://eu.36kr.com/en/p/3767812746937095",
+                    "publish_time": "Wed, 15 Apr 2026 09:01:04 GMT",
+                    "score": 7.5,
+                    "stars": "★★★★☆",
+                    "insight": "该研究标志着蛋白质设计范式从‘发现与改造’转向‘按需定制’。通过AI在原子尺度精准建模蛋白-配体相互作用，实现了对特定小分子（如皮质醇）的高选择性识别。这为开发新型生物传感器、靶向药物递送系统及精准医疗工具开辟了新路径，但其在区分结构相似分子方面的优化空间，提示了该技术下一阶段的关键攻坚方向。"
                 }
             ],
             "AI": [
                 {
-                    "url": "https://www.infoq.cn/article/5u83nvgegqlv6foycgcv",
                     "title": "智能时代，同球共济！2025世界人工智能大会将于7月26日启幕 - InfoQ",
-                    "content": "本届大会将于7月26至28日在浦东世博中心、世博展览馆、徐汇西岸等地同步启幕，围绕“智能时代 同球共济”为主题，全面展现AI技术前沿、产业趋势与全球治理的最新实践。",
-                    "score": 0.98579,
-                    "raw_content": null,
-                    "serper_date": null
+                    "url": "https://www.infoq.cn/article/5u83nvgegqlv6foycgcv",
+                    "publish_time": "未提供",
+                    "score": 9.9,
+                    "stars": "★★★★★",
+                    "insight": "WAIC 2025以‘同球共济’为主题，标志着全球AI治理从理念探讨进入实践协调阶段。大会将成为观察中美欧技术路线竞合、产业标准制定及伦理规范博弈的关键窗口，其成果将直接影响全球AI技术扩散的路径与速度。"
                 },
                 {
-                    "url": "https://www.51cto.com/aigc/2921.html",
                     "title": "2025年人工智能十大趋势！最新预测-AI.x-AIGC专属社区 - 51CTO",
-                    "content": "预计到2025年，人类在利用人工智能和拓展技术能力方面将更加审慎。这将减少对简单聊天机器人的依赖，同时释放出更多时间，让人们专注于那些需要创造力和沟通能力的工作。",
-                    "score": 0.98571,
-                    "raw_content": null,
-                    "serper_date": null
+                    "url": "https://www.51cto.com/aigc/2921.html",
+                    "publish_time": "未提供",
+                    "score": 9.5,
+                    "stars": "★★★★★",
+                    "insight": "该预测揭示了AI应用正从‘自动化替代’转向‘创造力增强’的战略拐点。减少对简单聊天机器人的依赖，意味着市场将更青睐能深度融入工作流、提升复杂决策与创新能力的AI工具，企业竞争焦点从模型能力转向场景化解决方案。"
                 },
                 {
-                    "url": "https://www.jiqizhixin.com/trends/35003187-f465-4ca6-a904-f43d34a96395",
                     "title": "AI每日精选10条 - 机器之心",
-                    "content": "ABI Research 预测，到2024 年，工业制造业人工智能设备的总安装基础将达到1，540 万台，2019 年至2024 年的CAGR 将达到64.8%。",
-                    "score": 0.98289,
-                    "raw_content": null,
-                    "serper_date": null
+                    "url": "https://www.jiqizhixin.com/trends/35003187-f465-4ca6-a904-f43d34a96395",
+                    "publish_time": "未提供",
+                    "score": 9.2,
+                    "stars": "★★★★★",
+                    "insight": "工业AI设备安装量64.8%的年复合增长率，预示AI驱动的工业革命进入硬件渗透加速期。这不仅是效率提升，更意味着生产数据闭环的形成，将重构制造业的竞争壁垒，并为预测性维护、柔性生产等高级应用奠定物理基础。"
                 },
                 {
-                    "url": "https://www.51cto.com/aigc/9661.html",
                     "title": "2025年人工智能发展全景报告：趋势、挑战与未来-AI.x-AIGC专属社区",
-                    "content": "2. 全球人工智能支出大幅增长. 尽管有所调整，但预计到2025年全球人工智能支出将接近1.5万亿美元，并在2026年突破2万亿美元。这一增长将主要得益于人工智能在智能手机和",
-                    "score": 0.98144,
-                    "raw_content": null,
-                    "serper_date": null
+                    "url": "https://www.51cto.com/aigc/9661.html",
+                    "publish_time": "未提供",
+                    "score": 9.0,
+                    "stars": "★★★★☆",
+                    "insight": "全球AI支出向1.5万亿美元迈进，增长动力由消费电子（智能手机）主导，揭示了AI技术普及的‘终端化’与‘嵌入式’趋势。这要求战略制定者关注边缘AI芯片、端侧模型优化及隐私计算等配套技术生态的成熟度与投资机会。"
                 },
                 {
-                    "url": "https://www.infoq.cn/article/wLeViF4hSl0WQrw3r2cQ",
                     "title": "AI 的下一个十年：从技术拐点到工程落地的路线图 - InfoQ",
-                    "content": "成功的AI 架构：产品先行，为不确定性留出空间 · 初期采用通用基础模型快速验证产品； · 随着真实负载显现，通过微调、蒸馏、提示缓存优化等手段应对非线性成本；.",
-                    "score": 0.97687,
-                    "raw_content": null,
-                    "serper_date": "Jan 16, 2026"
+                    "url": "https://www.infoq.cn/article/wLeViF4hSl0WQrw3r2cQ",
+                    "publish_time": "Jan 16, 2026",
+                    "score": 8.8,
+                    "stars": "★★★★☆",
+                    "insight": "文章提出的‘产品先行，为不确定性留出空间’的工程路径，直指AI规模化落地的核心矛盾。它强调了从追求模型SOTA到构建稳健、可迭代、成本可控的AI系统的战略转型，是企业规避技术债务、实现可持续创新的关键方法论。"
                 }
             ]
         },
         "china": {
             "finance": [
                 {
-                    "url": "https://finance.eastmoney.com/a/cjjsp.html",
                     "title": "经济时评_ 东方财富网",
-                    "content": "3月12日，全国人大财经委在预算审查结果报告中释放重磅信号：将加大对非标、“双非”债务化解的支持力度，严禁融资平台异化，同时明确推动融资平台经营性债务风险防范化解。这一",
-                    "score": 0.98544,
-                    "raw_content": null,
-                    "serper_date": null
+                    "url": "https://finance.eastmoney.com/a/cjjsp.html",
+                    "publish_time": null,
+                    "score": 9.8544,
+                    "stars": "★★★★★",
+                    "insight": "政策层面对非标和双非债务的强化管控，旨在防范系统性金融风险，推动融资平台规范化，为经济转型提供稳定环境。这预示着监管将更注重风险隔离与结构性改革，投资者应关注相关板块的合规性机会。"
                 },
                 {
-                    "url": "https://finance.eastmoney.com/a/202603043660915433.html",
                     "title": "26位“首席”把脉2026：对中国经济有信心战略看多A股 - 东方财富网",
-                    "content": "落实到A股市场层面，受访的内外专家一致指出，目前A股仍处“慢牛”中。与此同时，2026年A股仍将面临不少的内外积极因素，因此可战略性看多。 海通国际执委会委员",
-                    "score": 0.98514,
-                    "raw_content": null,
-                    "serper_date": "Mar 4, 2026"
+                    "url": "https://finance.eastmoney.com/a/202603043660915433.html",
+                    "publish_time": "Mar 4, 2026",
+                    "score": 9.8514,
+                    "stars": "★★★★★",
+                    "insight": "多位首席经济学家共识看多A股，反映市场对中国经济韧性和政策支持的信心。慢牛格局确立，内外资流入预期增强，建议投资者把握结构性机会，关注科技创新与消费升级主线。"
                 },
                 {
-                    "url": "https://stcn.com/article/detail/3490363.html",
                     "title": "机构普遍看好2026年中国经济与A股市场 - 证券时报",
-                    "content": "中金公司11月9日发布报告预计，2026年政策将在供需两端发力以实现5%左右的经济增长。中信证券首席经济学家明明11月11日在中信证券2026年资本市场年会上表示",
-                    "score": 0.98288,
-                    "raw_content": null,
-                    "serper_date": "Nov 12, 2025"
+                    "url": "https://stcn.com/article/detail/3490363.html",
+                    "publish_time": "Nov 12, 2025",
+                    "score": 9.8288,
+                    "stars": "★★★★★",
+                    "insight": "机构预测2026年中国经济将实现中高速增长，政策将在供需两端协同发力。这表明宏观调控更注重平衡与可持续性，A股市场有望受益于经济基本面改善，投资者可布局受益于政策红利的行业。"
                 },
                 {
-                    "url": "https://www.stcn.com/article/detail/1674864.html",
                     "title": "内生确定性价值凸显A股将成为全球股票投资“压舱石” - 证券时报",
-                    "content": "我国社会经济进入新的发展阶段后，党和政府高度重视A股市场的稳定和发展。2024年新“国九条”和资本市场“1+N”政策体系相继出台、持续发力，在今年政府工作报告",
-                    "score": 0.98232,
-                    "raw_content": null,
-                    "serper_date": "Apr 18, 2025"
+                    "url": "https://www.stcn.com/article/detail/1674864.html",
+                    "publish_time": "Apr 18, 2025",
+                    "score": 9.8232,
+                    "stars": "★★★★★",
+                    "insight": "政策层将A股定位为全球投资压舱石，凸显其内生价值与稳定性。新“国九条”等改革措施深化市场基础制度，提升国际竞争力，长期资金入市可期，建议关注蓝筹股与高股息资产。"
                 },
                 {
-                    "url": "https://finance.eastmoney.com/a/202601293634538651.html",
                     "title": "方正证券燕翔：2026年宏观经济有望“前稳后升” A股步入关键切换阶段",
-                    "content": "燕翔认为，当前政策呈现出显著的定力特征。市场上期待的大水漫灌式强刺激并未出现。这说明在经济转型期中，中国经济的韧性显著好于市场预期，当前并未出现",
-                    "score": 0.97908,
-                    "raw_content": null,
-                    "serper_date": "Jan 29, 2026"
+                    "url": "https://finance.eastmoney.com/a/202601293634538651.html",
+                    "publish_time": "Jan 29, 2026",
+                    "score": 9.7908,
+                    "stars": "★★★★★",
+                    "insight": "政策保持定力避免强刺激，显示经济转型期韧性增强。宏观经济前稳后升预期下，A股进入关键切换阶段，投资者应适应结构性行情，聚焦高质量成长与估值修复机会。"
                 }
             ],
             "technology": [
                 {
-                    "url": "https://www.cls.cn/detail/2341727",
                     "title": "我国复用航天器关键部件研制成功宇树人形机器人奔跑速度再破纪录",
-                    "content": "我国复用航天器关键部件研制成功. 从中国航天科技集团一院获悉，4月11日，由该院研制的5米直径复合材料动力舱产品正式下架。这是国内航天领域重复使用",
-                    "score": 0.98569,
-                    "raw_content": null,
-                    "serper_date": "4 days ago"
+                    "url": "https://www.cls.cn/detail/2341727",
+                    "publish_time": "4 days ago",
+                    "score": 9.86,
+                    "stars": "★★★★★",
+                    "insight": "该消息同步展示了我国在‘大国重器’（可复用航天器）与‘新质生产力’（人形机器人）两大战略前沿的并行突破。5米直径复合材料动力舱的研制成功，是降低航天发射成本、构建太空经济的关键一步；而机器人运动性能的持续提升，则预示着其在特种作业、物流等场景的商业化落地加速。两者共同指向高端制造与智能系统的深度融合，是国家综合科技实力的体现。"
                 },
                 {
-                    "url": "https://www.guancha.cn/RafaelReif/2026_04_07_812738.shtml",
                     "title": "美国正在输掉与中国的创新竞赛-拉斐尔·莱夫-观察者网",
-                    "content": "以半导体为例，中国虽尚未能制造出训练最先进人工智能模型所需的尖端芯片，但已建成了全球最大的成熟制程芯片产能，这些芯片广泛用于汽车和普通电子产品。",
-                    "score": 0.98544,
-                    "raw_content": null,
-                    "serper_date": "Apr 7, 2026"
+                    "url": "https://www.guancha.cn/RafaelReif/2026_04_07_812738.shtml",
+                    "publish_time": "Apr 7, 2026",
+                    "score": 9.85,
+                    "stars": "★★★★★",
+                    "insight": "该观点揭示了中美科技竞争的‘非对称性’格局。中国正通过在成熟制程芯片等‘应用层’建立全球规模优势，构建坚实的产业生态和供应链韧性，以此为基础向尖端领域迂回突破。这种‘农村包围城市’的策略，使得中国在广泛的工业与消费电子领域掌握了主动权，削弱了单纯技术封锁的效果，竞争焦点正从单一技术节点转向系统性的产业能力与创新生态。"
                 },
                 {
-                    "url": "https://www.guancha.cn/ChengShi/2026_01_09_803250.shtml",
                     "title": "广州大消息！剑指商业航天新一极-观察者网",
-                    "content": "以建设先进的系列化运载火箭产业基地为牵引，聚焦低成本高可靠运载火箭、互联网卫星星座、航天商业化应用等核心环节建链强链，打造南方航天城，力争成为中国",
-                    "score": 0.9846,
-                    "raw_content": null,
-                    "serper_date": "Jan 9, 2026"
+                    "url": "https://www.guancha.cn/ChengShi/2026_01_09_803250.shtml",
+                    "publish_time": "Jan 9, 2026",
+                    "score": 9.85,
+                    "stars": "★★★★★",
+                    "insight": "广州此举标志着中国商业航天产业从‘国家队’主导向‘国家队+区域集群’协同发展模式演进。通过打造南方航天城，旨在整合珠三角的制造业、资本与市场优势，聚焦火箭、卫星、应用全产业链，形成与北京、上海、武汉等传统航天基地互补的格局。这不仅能加速技术迭代与成本下降，更将商业航天深度嵌入粤港澳大湾区的经济体系，培育新的万亿级经济增长极。"
                 },
                 {
-                    "url": "https://www.cls.cn/detail/2224293",
                     "title": "二五新程，智创未来| 2025中国科创好公司榜单重磅发布 - 财联社",
-                    "content": "与此同时，商业航天开启低成本卫星组网与数据服务新阶段，低空经济伴随eVTOL适航取证突破迈入规模化运营前夜，而科技消费赛道则借助AI+硬件融合，催生AR眼镜、",
-                    "score": 0.98299,
-                    "raw_content": null,
-                    "serper_date": "Dec 10, 2025"
+                    "url": "https://www.cls.cn/detail/2224293",
+                    "publish_time": "Dec 10, 2025",
+                    "score": 9.83,
+                    "stars": "★★★★☆",
+                    "insight": "此榜单勾勒出中国科技创新的‘雁阵’图谱：商业航天、低空经济、AI硬件构成领飞的‘头雁’。其共性在于，均处于技术突破临界点与商业化前夜的交汇处，如eVTOL适航取证、可回收火箭、AR眼镜等。这表明资本与政策正合力推动硬科技从实验室走向市场，‘科技-产业-金融’的良性循环正在形成，未来2-3年将是这些赛道兑现价值、重塑相关产业格局的关键窗口期。"
                 },
                 {
-                    "url": "https://www.cls.cn/detail/2219327",
                     "title": "研选 - 财联社",
-                    "content": "①太空算力开启商业航天新叙事，国内多款可回收火箭首飞在即，有望助力产业加速实现商业闭环； ②公司多元业务布局半导体光学，进一步开拓核心光学产品在生命",
-                    "score": 0.97968,
-                    "raw_content": null,
-                    "serper_date": "Dec 5, 2025"
+                    "url": "https://www.cls.cn/detail/2219327",
+                    "publish_time": "Dec 5, 2025",
+                    "score": 9.8,
+                    "stars": "★★★★☆",
+                    "insight": "该信息点明了两个关键趋势：一是‘太空算力’概念将商业航天的价值从通信、导航延伸至数据计算与存储，可能催生在轨服务的新商业模式；二是国内多款可回收火箭‘首飞在即’，预示着2025-2026年将成为中国可复用运载技术从试验走向实用的分水岭，将根本性改变发射成本结构。同时，企业向半导体光学等上游核心部件拓展，体现了产业链自主化与价值攀升的战略意图。"
                 }
             ],
             "AI": [
                 {
-                    "url": "https://eu.36kr.com/en/p/3767812746937095",
                     "title": "AI-Driven De Novo Design of Diverse Small Molecule-Binding Proteins: Korean Team Finds Proteins to Selectively Recognize Stress Hormones - eu.36kr.com",
-                    "score": 0.04374423,
-                    "published_date": "Wed, 15 Apr 2026 09:01:04 GMT",
-                    "content": "## Conclusion\n\nOverall, this study provides a new path for the de novo design of small molecule-binding proteins: by using an artificial intelligence model to precisely characterize protein-ligand interactions at the atomic level, it has achieved a transformation from \"discovering or modifying natural proteins\" to \"customizing functional proteins on demand\" and completed effective experimental verification.\n\nThis not only marks a\n\nFor media inquiries, interview requests, business collaboration and Recruit global ecological partners, please contact mohaiying@36kr.com.\n\n36kr Europe (eu.36kr.com) delivers global business and markets news, data, analysis, and video to the world, dedicated to building value and providing business service for companies’ global expansion. [...] Home\nArticle\n\n# AI-driven de novo design of diverse small molecule-binding proteins: A Korean team discovers proteins that can selectively recognize stress hormones\n\n超神经HyperAI2026-04-15 16:25\n\nUse AI to design proteins that recognize specific compounds from scratch. [...] The relevant research results, titled \"Small-molecule binding and sensing with a designed protein family\", have been published in Nature Communications.\n\nResearch Highlights:\n\n\\ Use artificial intelligence to de novo design proteins that recognize specific compounds and apply them to functional biosensors\n\n\\ Traditional methods mainly involve finding natural proteins or modifying some of their functions, while this research \"customizes\" proteins with the desired functions through AI-based design\n\n\\ The research results can be widely applied in fields such as disease diagnosis, new drug development, and environmental monitoring\n\nPaper Link: \n\n## Dataset: Building the NTF2 Backbone",
-                    "raw_content": null
+                    "url": "https://eu.36kr.com/en/p/3767812746937095",
+                    "publish_time": "Wed, 15 Apr 2026 09:01:04 GMT",
+                    "score": 8.0,
+                    "stars": "★★★★",
+                    "insight": "该研究通过AI从头设计蛋白质，实现原子级精准识别小分子，标志着生物技术从自然发现转向定制化设计的范式变革。战略上，这将加速疾病诊断、新药开发和环境监测的创新，重塑全球生物经济竞争格局。中国需在AI与生物交叉领域加强基础研究和应用转化，以把握技术主权并应对国际挑战。"
                 }
             ]
         }
