@@ -1,1 +1,33 @@
-
+name: Daily News Update
+on:
+  schedule:
+    - cron: '0 23 * * *' # 北京时间 07:00
+  workflow_dispatch:
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - run: pip install requests tavily-python
+      - env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          mkdir -p data
+          python fetch_news.py
+          # 使用 sed 强制在运行前切换到 flash 模型
+          sed -i 's/gemini-1.5-pro/gemini-1.5-flash/g' process_news.py
+          python process_news.py          
+      - run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/news.json
+          git commit -m "自动更新动态" || echo "无内容更新"
+          git push          
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+      - uses: actions/deploy-pages@v4
