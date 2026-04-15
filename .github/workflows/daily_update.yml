@@ -1,8 +1,12 @@
 name: Daily News Update
 on:
   schedule:
-    - cron: '0 23 * * *' # 北京时间 07:00
+    - cron: '0 23 * * *'
   workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 jobs:
   update-news:
     runs-on: ubuntu-latest
@@ -18,7 +22,6 @@ jobs:
         run: |
           mkdir -p data
           python fetch_news.py
-          # 使用 sed 强制在运行前切换到 flash 模型
           sed -i 's/gemini-1.5-pro/gemini-1.5-flash/g' process_news.py
           python process_news.py          
       - run: |
